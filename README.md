@@ -1,3 +1,4 @@
+Open NB in [![Colab](https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg)](https://colab.research.google.com/github/arcweld/Python_SQL/blob/master/mysql.ipynb)
 [![CraigDoesData][logo]][link]
 
 [logo]: ./img/logo.png
